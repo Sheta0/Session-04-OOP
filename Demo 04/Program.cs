@@ -53,8 +53,8 @@ namespace Demo_04
             #endregion
 
             #region Operators Overloading
-            Complex C01 = new Complex() { Real = 2, Imaginary = 7 };
-            Complex C02 = new Complex() { Real = 3, Imaginary = 6 };
+            //Complex C01 = new Complex() { Real = 2, Imaginary = 7 };
+            //Complex C02 = new Complex() { Real = 3, Imaginary = 6 };
 
             #region Binary Operators
 
